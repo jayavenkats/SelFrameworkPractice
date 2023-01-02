@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-20T15:44:16 IST" name="Default suite" finished-at="2022-12-20T15:44:25 IST" duration-ms="8483">
+    <groups>
+    </groups>
+    <test started-at="2022-12-20T15:44:16 IST" name="Default test" finished-at="2022-12-20T15:44:25 IST" duration-ms="8483">
+      <class name="Projects.tests.testClass">
+        <test-method is-config="true" signature="browserInitiation()[pri:0, instance:Projects.tests.testClass@7b2bbc3]" started-at="2022-12-20T15:44:17 IST" name="browserInitiation" finished-at="2022-12-20T15:44:24 IST" duration-ms="7747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInitiation -->
+        <test-method signature="getPageLinks()[pri:0, instance:Projects.tests.testClass@7b2bbc3]" started-at="2022-12-20T15:44:24 IST" name="getPageLinks" finished-at="2022-12-20T15:44:25 IST" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPageLinks -->
+        <test-method signature="getPageTitle()[pri:0, instance:Projects.tests.testClass@7b2bbc3]" started-at="2022-12-20T15:44:25 IST" name="getPageTitle" finished-at="2022-12-20T15:44:25 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Projects.tests.testClass@7b2bbc3]" started-at="2022-12-20T15:44:25 IST" name="tearDown" finished-at="2022-12-20T15:44:25 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Projects.tests.testClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
